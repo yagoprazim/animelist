@@ -8,6 +8,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+RUN mkdir -p /app/media/anime_images
+
 RUN python manage.py migrate
 RUN python create_superuser.py
 
