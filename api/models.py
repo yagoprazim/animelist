@@ -13,6 +13,7 @@ class Anime(models.Model):
     release_date = models.DateField()
     seasons = models.IntegerField()
     total_episodes = models.IntegerField()
+    image = models.ImageField(upload_to='anime_images/', null=True, blank=True)
     dttm_created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
