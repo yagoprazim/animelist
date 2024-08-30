@@ -5,7 +5,13 @@ class Gender(models.IntegerChoices):
     ISEKAI = 2, 'Isekai'
     SHOUJO = 3, 'Shoujo'
     SEINEN = 4, 'Seinen'
-    OTHERS = 5, 'Others'
+    ACTION = 5, 'Action'
+    THRILLER = 6, 'Thriller'
+    ADVENTURE = 7, 'Adventure'
+    HORROR = 8, 'Horror'
+    FANTASY = 9, 'Fantasy'
+    MECHA = 10, 'Mecha'
+    OTHERS = 11, 'Others'
 
 class Anime(models.Model):
     name = models.CharField(max_length=50, unique=True)

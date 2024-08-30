@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python:3.12-slim
 
 WORKDIR /app
 
@@ -12,5 +12,8 @@ RUN mkdir -p /app/media/anime_images
 
 RUN python manage.py migrate
 RUN python create_superuser.py
+RUN python load_initial_data.py
+
+EXPOSE 8000
 
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]

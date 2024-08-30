@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Naruto",
+        "gender": 1,
+        "release_date": "2002-10-03",
+        "seasons": 5,
+        "total_episodes": 220,
+        "image": "anime_images/naruto.jpg"
+    },
+    {
+        "name": "Attack on Titan",
+        "gender": 5,
+        "release_date": "2013-04-07",
+        "seasons": 4,
+        "total_episodes": 87,
+        "image": "anime_images/attack_on_titan.jpg"
+    },
+    {
+        "name": "Death Note",
+        "gender": 6,
+        "release_date": "2006-10-03",
+        "seasons": 1,
+        "total_episodes": 37,
+        "image": "anime_images/Death_note.jpg"
+    },
+    {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "gender": 7,
+        "release_date": "2009-04-05",
+        "seasons": 1,
+        "total_episodes": 64,
+        "image": "anime_images/Fullmetal_Alchemist"
+    },
+    {
+        "name": "One Piece",
+        "gender": 7,
+        "release_date": "1999-10-20",
+        "seasons": 20,
+        "total_episodes": 1000,
+        "image": "anime_images/One_Piece"
+    },
+    {
+        "name": "Dragon Ball Z",
+        "gender": 5,
+        "release_date": "1989-04-26",
+        "seasons": 9,
+        "total_episodes": 291,
+        "image": "anime_images/dbz"
+    },
+    {
+        "name": "My Hero Academia",
+        "gender": 5,
+        "release_date": "2016-04-03",
+        "seasons": 6,
+        "total_episodes": 138,
+        "image": "anime_images/my_hero_academia"
+    },
+    {
+        "name": "Tokyo Ghoul",
+        "gender": 8,
+        "release_date": "2014-07-04",
+        "seasons": 4,
+        "total_episodes": 48,
+        "image": "anime_images/Tokyo_Ghoul"
+    },
+    {
+        "name": "Sword Art Online",
+        "gender": 9,
+        "release_date": "2012-07-08",
+        "seasons": 4,
+        "total_episodes": 97,
+        "image": "anime_images/swordart"
+    },
+    {
+        "name": "Demon Slayer",
+        "gender": 5,
+        "release_date": "2019-04-06",
+        "seasons": 3,
+        "total_episodes": 44,
+        "image": "anime_images/demon_slayer"
+    },
+    {
+        "name": "Neon Genesis Evangelion",
+        "gender": 10,
+        "release_date": "1995-10-04",
+        "seasons": 1,
+        "total_episodes": 26,
+        "image": "anime_images/neon_gen"
+    },
+    {
+        "name": "Steins;Gate",
+        "gender": 11,
+        "release_date": "2011-04-06",
+        "seasons": 1,
+        "total_episodes": 24,
+        "image": "anime_images/Steins"
+    },
+    {
+        "name": "Hunter x Hunter",
+        "gender": 7,
+        "release_date": "2011-10-02",
+        "seasons": 3,
+        "total_episodes": 148,
+        "image": "anime_images/hxh"
+    },
+    {
+        "name": "Bleach",
+        "gender": 1,
+        "release_date": "2004-10-05",
+        "seasons": 16,
+        "total_episodes": 366,
+        "image": "anime_images/Bleach"
+    },
+    {
+        "name": "Cowboy Bebop",
+        "gender": 11,
+        "release_date": "1998-04-03",
+        "seasons": 1,
+        "total_episodes": 26,
+        "image": "anime_images/Cowboy_Bebop"
+    },
+    {
+        "name": "Fairy Tail",
+        "gender": 7,
+        "release_date": "2009-10-12",
+        "seasons": 9,
+        "total_episodes": 328,
+        "image": "anime_images/ft"
+    },
+    {
+        "name": "Code Geass",
+        "gender": 10,
+        "release_date": "2006-10-05",
+        "seasons": 2,
+        "total_episodes": 50,
+        "image": "anime_images/code_geass"
+    },
+    {
+        "name": "Black Clover",
+        "gender": 9,
+        "release_date": "2017-10-03",
+        "seasons": 4,
+        "total_episodes": 170,
+        "image": "anime_images/Black_clover"
+    },
+    {
+        "name": "Your Lie in April",
+        "gender": 11,
+        "release_date": "2014-10-10",
+        "seasons": 1,
+        "total_episodes": 22,
+        "image": "anime_images/YourLieinApril"
+    },
+    {
+        "name": "Mob Psycho 100",
+        "gender": 11,
+        "release_date": "2016-07-12",
+        "seasons": 3,
+        "total_episodes": 37,
+        "image": "anime_images/MobPsycho100"
+    }
+]
